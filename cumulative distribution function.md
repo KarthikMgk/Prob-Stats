@@ -2,7 +2,7 @@
 
 Cumulative distribution function looks like as follows:
 
-![](assets/cumulative distribution function-bd28bafd.png)
+<img src="assets/cumulative distribution function-bd28bafd.png" width="800" />
 
 similar to normal dist this also has mean, std dev and variance
 mean is the the most common value found in the any population

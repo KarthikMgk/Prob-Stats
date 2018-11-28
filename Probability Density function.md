@@ -12,7 +12,7 @@ Gaussian distribution is also called the bell curve which peaks at the centre an
 
 lets look at how it looks:
 
-![](assets/Probability Density function-53e711fa.png)
+<img src="assets/Probability Density function-53e711fa.png" width="800" />
 
 The biggest blue curves is the normal distribution curve in the diagram with the given mean(mu) and variance(sigmasquare). The curve is called the pdf of the gaussian distribution
 

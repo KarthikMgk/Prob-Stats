@@ -4,7 +4,7 @@ This the nice way of creating pdf's using the histogram's, we basically smoothen
 
 How to do it??
 
-![](assets/kernel density estimation using gaussian kernels-6a5b18d5.png)
+<img src="assets/kernel density estimation using gaussian kernels-6a5b18d5.png" width="800" /> 
 
 The above is the image of performing kde. We first plot the histogram as seen above and then we plot mini gaussian kernel for every point we plotted to the x axis depending on the density of the points the number of kernel increase and depending on how spread they are in the x axis the traffic of kernel will react
 
